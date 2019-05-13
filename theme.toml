@@ -1,17 +1,23 @@
 name = "Alabaster 2"
-license = "MIT"
+license = "BSD"
 licenselink = "https://github.com/NickolasHKraus/alabaster-2/blob/master/LICENSE"
-description = "A simple, documentation theme for Hugo. Alabaster 2 is JavaScript-free and fully open-source!"
+description = "A simple, documentation theme for Hugo. Alabaster 2 a port of Sphinx to Hugo, is JavaScript-free, and fully open-source!"
 homepage = "https://github.com/NickolasHKraus/alabaster-2"
-tags = []
+tags = ["documentation", "sphinx"]
 features = []
-min_version = "0.41"
+min_version = 0.20
 
 [author]
   name = "Nickolas Kraus"
   homepage = "https://nickolaskraus.org"
+  repo = "https://github.com/NickolasHKraus/alabaster-2"
 
 [original]
   name = "Digitalcraftsman"
   homepage = "https://github.com/digitalcraftsman"
   repo = "https://github.com/digitalcraftsman/hugo-alabaster-theme"
+
+[original]
+  name = "Jeff Forcier"
+  homepage = "http://bitprophet.org"
+  repo = "https://github.com/bitprophet/alabaster"
