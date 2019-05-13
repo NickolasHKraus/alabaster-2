@@ -2,6 +2,11 @@
 {{ if gt (len .Site.Menus.main) 0 }}
 <h3>Navigation</h3>
 <ul>
+	{{ range where .Site.Pages "Type" "homepage" }}
+	<li class="toctree-l1">
+		<a class="reference internal" href="{{ .URL }}">{{ .Name }}</a>
+	</li>
+  {{ end }}
 	{{ range .Site.Menus.main }}
 	<li class="toctree-l1">
 		<a class="reference internal" href="{{ .URL }}">{{ .Name }}</a>
