@@ -86,6 +86,10 @@ div.sphinxsidebarwrapper p.logo {
     text-align: center;
 }
 
+div.sphinxsidebarwrapper img.logo {
+    padding-bottom: 5px;
+}
+
 div.sphinxsidebarwrapper h1.logo {
     margin-top: -10px;
     text-align: center;
