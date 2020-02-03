@@ -1,6 +1,6 @@
 # Alabaster 2
 
-A documentation theme ported from [Sphinx](http://www.sphinx-doc.org/en/stable/) to [Hugo](https://gohugo.io).
+A simple documentation theme for Hugo. Alabaster 2 is a port of [Sphinx](http://www.sphinx-doc.org/en/master/) to [Hugo](https://gohugo.io/), JavaScript-free, and fully open-source.
 
 ## Quick Start
 
@@ -30,7 +30,7 @@ For detailed installation instructions visit the [demo website](https://alabaste
 
 ## Acknowledgements
 
-Last, but not least, I want to give a big shout-out to [Jeff Forcier](https://github.com/bitprophet), [Kenneth Reitz](https://github.com/kennethreitz) and [Armin Ronacher](https://github.com/mitsuhiko). Their work and modifications on the original code base made this port possible.
+Last, but not least, I want to give a big shout-out to [Jeff Forcier](https://github.com/bitprophet), [Kenneth Reitz](https://github.com/kennethreitz), and [Armin Ronacher](https://github.com/mitsuhiko). Their work and modifications on the original code base made this port possible.
 
 Furthermore, thanks to [Steve Francia](https://gihub.com/spf13) for creating Hugo and the [awesome community](https://github.com/spf13/hugo/graphs/contributors) around the project.
 
